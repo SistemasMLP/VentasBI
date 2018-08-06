@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ventas.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RutaRepositorio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\pastora1\SellOut Cadenas\</Value>
+    </Setting>
+    <Setting Name="RutaArchivoCarga" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\CARGA\</Value>
+    </Setting>
+    <Setting Name="RutaCarga" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\pastora1\SellOut Cadenas\FileLoad\</Value>
+    </Setting>
+    <Setting Name="PA_RutaPredeterminada" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\pastora1\General\Mesa de Control\Pedidos</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
