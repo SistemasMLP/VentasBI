@@ -18,6 +18,7 @@ namespace Ventas
 {
     public partial class Login : Form
     {
+        
         private Image img;
         private Image result;
         private Rectangle rectangle;
